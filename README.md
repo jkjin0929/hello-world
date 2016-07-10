@@ -1,2 +1,2 @@
 # hello-world
-GitHub tutorial for Unit 6
+SMC Student who pursues career in computer science
